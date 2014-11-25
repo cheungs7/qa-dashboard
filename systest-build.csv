@@ -1,8 +1,7 @@
 Release:,14.12
 Build Version:,14.12-SNAPSHOT
-Build Number:,12
-Build Date:,2014-11-19 10:13 EST
-Build ID:,2014-11-19_15-10-24
-Number of changes in this build:,2
-1.,Ticket: 300361818 Reviewed By: DRC Team Description: Fixes for get base product for category expand all when no variations exist (commit: eca8267fe9d45effc35cbf33491bf95c01d65c0b) (detail / githubweb)
-2.,Ticket ID: 300361246 (commit: e8032e12f725705decdb07180f04fbfcc800a843) (detail / githubweb)
+Build Number:,17
+Build Date:,2014-11-25 03:27 EST
+Build ID:,2014-11-25_08-23-55
+Number of changes in this build:,1
+1.,Ticket ID: 300363100 (commit: 4307122cf10b3aee3c6269b3ba778a0c821ef621) (detail / githubweb)
