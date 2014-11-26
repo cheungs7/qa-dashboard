@@ -1,7 +1,6 @@
 Release:,14.12
 Build Version:,14.12-SNAPSHOT
-Build Number:,18
-Build Date:,2014-11-26 00:57 EST
-Build ID:,2014-11-26_05-54-48
-Number of changes in this build:,1
-1.,Ticket ID: 300363949 Reviewed by: achou Description of change: Delete corresponding MER_POP_OFFER records while retiring the given offer (commit: 9290dc9ced810e0c9802dc89bce8bd0397938eef) (detail / githubweb)
+Build Number:,20
+Build Date:,2014-11-26 12:03 EST
+Build ID:,2014-11-26_16-59-14
+Number of changes in this build:,0
