@@ -1,1 +1,1 @@
-{ "value": 1,"start": "0","end": "1","formatted": "UP" }
+{ "value": 0,"start": "0","end": "1","formatted": "DOWN" }
