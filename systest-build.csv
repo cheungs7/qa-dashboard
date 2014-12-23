@@ -1,7 +1,8 @@
-Release:,MR_15.01.01
+Release:,15.01
 Build Version:,15.01-SNAPSHOT
-Build Number:,1002
-Build Date:,2014-12-18 11:07 EST
-Build ID:,2014-12-18_16-03-30
-Number of changes in this build:,1
-1.,300365671
+Build Number:,1006
+Build Date:,2014-12-22 12:10 EST
+Build ID:,2014-12-22_17-06-34
+Number of changes in this build:,2
+1.,300365663
+2.,300363610
