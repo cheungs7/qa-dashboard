@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Steven's Morphext Example</title>
+		<meta name="description" content="Cheungy's Morphext example.  Hope it works.">
+		
+		
+		<link rel="stylesheet" type="text/css" href="animate.css">
+		<link rel="stylesheet" type="text/css" href="morphext.css">
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<script type="text/javascript" src="morphext.min.js"></script>
+		
+		<!-- <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/cheungs7/qa-dashboard/master/animate.css"> -->
+		<!-- <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/cheungs7/qa-dashboard/master/morphext.css"> -->
+		<!-- <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> //-->
+		<!-- <script type="text/javascript" src="https://raw.githubusercontent.com/cheungs7/qa-dashboard/master/morphext.min.js"></script> //-->
+		
+	</head>
+
+	<body>
+
+		<div style="text-align:center">
+            I am a <span id="js-rotating">So Simple, Very Doge, Much Wow, Such Cool</span> Text Rotator
+        </div>
+
+        <script>
+            $("#js-rotating").Morphext({
+                // The [in] animation type. Refer to Animate.css for a list of available animations.
+				animation: "fadeIn",
+				
+				// An array of phrases to rotate are created based on this separator. Change it if you wish to separate the phrases differently (e.g. So Simple | Very Doge | Much Wow | Such Cool).
+				separator: ",",
+				
+				// The delay between the changing of each phrase in milliseconds.
+				speed: 4000
+				
+            });
+        </script>
+
+	</body>
+	
+</html>
