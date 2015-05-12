@@ -1,1 +1,1 @@
-Release: 15.05
+Release: 15.06
