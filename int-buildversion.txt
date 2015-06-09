@@ -1,1 +1,1 @@
-Build Version: 15.05.02-SNAPSHOT
+Build Version: 15.06-SNAPSHOT
