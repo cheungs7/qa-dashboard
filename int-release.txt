@@ -1,1 +1,1 @@
-Release: 15.06
+Release: MR_15.06.01
