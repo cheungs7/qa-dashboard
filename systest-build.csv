@@ -1,11 +1,9 @@
 Release:,15.09
 Build Version:,15.09-SNAPSHOT
-Build Number:,1011
-Build Date:,2015-08-18 05:33 EDT
-Build ID:,2015-08-18_09-26-25
-Number of changes in this build:,5
-1.,300383655
-2.,300383752
-3.,300383713
-4.,300383660
-5.,300383506
+Build Number:,1012
+Build Date:,2015-08-18 12:11 EDT
+Build ID:,2015-08-18_16-07-21
+Number of changes in this build:,3
+1.,
+2.,300383656; 300383388
+3.,300382680
