@@ -1,9 +1,10 @@
 Release:,15.12
 Build Version:,15.12-SNAPSHOT
-Build Number:,1012
-Build Date:,2015-11-05 16:38 EST
-Build ID:,2015-11-05_21-32-21
-Number of changes in this build:,3
-1.,300388749
-2.,
+Build Number:,1013
+Build Date:,2015-11-06 10:21 EST
+Build ID:,2015-11-06_15-15-22
+Number of changes in this build:,4
+1.,
+2.,300387630
 3.,300385609
+4.,300388080
